@@ -38,16 +38,19 @@ p{
 	margin-left: 200px;
 	margin-top: 200px;
 }
+#border2{
+	width: 300px;
+	height: 300px;
+	margin: auto;
+}
 #border{
-	width: 600px;
+	width: 500px;
 	height: 200px;
 	margin: auto;
-
-
 }
 .dong{
-	width: 600px;
-	height: 200px;
+	width: 300px;
+	height: 100px;
 	background: pink;
 }
 .xam{
@@ -57,8 +60,8 @@ p{
 	float: left;
 }
 .trang{
-	width: 200px;
-	height: 200px;
+	width: 100px;
+	height: 100px;
 	background: white;
 	float: left;
 }
@@ -121,7 +124,7 @@ p{
     margin-left: 100px;
 }
 
-#dong4 {
+#dong {
     width: 700px;
     height: 400px;
 }
