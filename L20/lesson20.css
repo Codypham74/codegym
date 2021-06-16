@@ -28,12 +28,13 @@ nav{
 	width: 960px;
 	height: 600px;
 	margin-top: 20px;
-	margin: auto;
-	
+	margin: auto;	
 	padding-left: 30px;
 }
 #left{
 	float: left;
+	width: 900px;
+	height:600px;
 }
 section{
 	width: 450px;
